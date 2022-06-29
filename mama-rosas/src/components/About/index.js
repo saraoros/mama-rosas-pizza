@@ -8,8 +8,8 @@ function About() {
 
       <img
         src={coverImage}
-        className="my-3"
-        style={{ width: "90%" }}
+        className="my-2"
+        style={{ width: "80%" }}
         alt="cover"
       />
     </section>
